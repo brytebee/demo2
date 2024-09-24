@@ -1,0 +1,7 @@
+/* Style for the h1 and paragraphs */
+h1,
+p {
+  cursor: pointer;
+  padding: 10px;
+  text-align: center;
+}
